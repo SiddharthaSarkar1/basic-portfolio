@@ -126,7 +126,7 @@ html {
 .home {
   display: flex;
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)),
-    url("images/banner1.jpg") no-repeat center;
+    url("../images/banner1.jpg") no-repeat center;
   height: 100vh;
   background-size: cover;
   background-attachment: fixed;
